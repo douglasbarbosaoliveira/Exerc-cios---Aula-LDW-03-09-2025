@@ -12,22 +12,15 @@
 * [Sobre o Projeto](#-sobre-o-projeto)
 * [👨‍💻 Tecnologias](#-tecnologias)
 * [👨‍💻 Autor](#-autor)
-
 ---
 
 ## 🌎 Sobre o Projeto
-
 Exercícios criando menus horizontais e verticais utilizando apenas HTML e CSS.
-
 ---
 
-
 ## 🛠️ Tecnologias
-
 * **Front-end em HTML e CSS
-* 
 ---
 
 ## 👨‍💻 Autor
-
 Desenvolvido por [Douglas Barbosa de Oliveira]

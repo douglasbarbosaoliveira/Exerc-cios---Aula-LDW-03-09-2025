@@ -19,7 +19,7 @@ Exercícios criando menus horizontais e verticais utilizando apenas HTML e CSS.
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por [Douglas Barbosa de Oliveira]
-Curso: Desenvolvimento de Software Multiplaforma
-Semestre em curso: 4º semestre
-Instituição: Faculdade de Tecnologia de Mauá - FATEC Mauá
+* Desenvolvido por [Douglas Barbosa de Oliveira]
+* Curso: Desenvolvimento de Software Multiplaforma
+* Semestre em curso: 4º semestre
+* Instituição: Faculdade de Tecnologia de Mauá - FATEC Mauá

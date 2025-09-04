@@ -10,8 +10,8 @@
 ### 📋 Sumário
 
 * [Sobre o Projeto](#-sobre-o-projeto)
-* [👨‍💻 Tecnologias](#-tecnologias)
-* [👨‍💻 Autor](#-autor)
+* [Tecnologias](#-tecnologias)
+* [Autor](#-autor)
 ---
 
 ## 🌎 Sobre o Projeto

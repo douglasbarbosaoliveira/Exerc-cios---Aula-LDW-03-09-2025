@@ -1,0 +1,51 @@
+*{
+    font-family: "verdana";
+    margin: 0;
+    padding: 0;
+}
+
+
+nav ul {
+    list-style: none;
+}
+
+nav li{
+    padding: 15px;
+    text-align: center;
+}
+
+nav li ul {
+    list-style: none;
+    display: none;
+    padding: 15px;
+    text-align: center;
+}
+
+nav li:hover {
+    background-color: #722d2d;
+}
+
+nav li:hover ul {
+    display: flex;
+    flex-direction: column;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    margin-left: 250px;
+}
+
+nav{
+    background-color: #311313;
+    color: white;
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
